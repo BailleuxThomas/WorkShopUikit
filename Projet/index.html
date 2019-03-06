@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css" />
+
+    <!-- UIkit JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit-icons.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>workshop</title>
+</head>
+
+<body>
+
+    <!-- NAVBAR  -->
+
+    <nav class="uk-navbar-container lol  " uk-sticky="bottom: #offset" uk-navbar>
+        <div class="uk-navbar-left">
+
+            <ul class="uk-navbar-nav">
+                <li class="uk-active"><a href="#">Active</a></li>
+                <li>
+                    <a href="#">Parent</a>
+                    <div class="uk-navbar-dropdown">
+                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                            <li class="uk-active"><a href="#">Active</a></li>
+                            <li><a href="#">Item</a></li>
+                            <li><a href="#">Item</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="#">Item</a></li>
+            </ul>
+
+        </div>
+    </nav>
+
+
+    <!-- CAROUSEL -->
+
+    <div uk-slider="center: true">
+
+        <div class="uk-position-relative uk-visible-toggle uk-light batbatou" tabindex="-1">
+    
+            <ul class="uk-slider-items uk-child-width-1-2@s uk-grid">
+                <li>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-media-top">
+                            <img src="joker.jpg" alt="">
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title">Headline</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-media-top">
+                            <img src="joker.jpg" alt="">
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title">Headline</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-media-top">
+                            <img src="joker.jpg" alt="">
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title">Headline</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-media-top">
+                            <img src="joker.jpg" alt="">
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title">Headline</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-media-top">
+                            <img src="joker.jpg" alt="">
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title">Headline</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+    
+            <a class="uk-position-center-left  uk-hidden-hover" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
+            <a class="uk-position-center-right  uk-hidden-hover" href="#" uk-slidenav-next uk-slider-item="next"></a>
+    
+        </div>
+    
+        <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
+    
+    </div>
+
+    <!-- PARALAX BATMAN -->
+
+
+    <div class="uk-height-large uk-background-cover uk-light uk-flex" uk-parallax="bgy: -450"
+        style="background-image: url('batman.jpg');">
+        <div class="uk-width-1-1@m uk-text-center uk-margin-auto uk-margin-auto-vertical">
+            <h1 class="uk-width-1-2@m uk-text-center uk-margin-auto uk-margin-auto-vertical" uk-parallax="opacity: 0,1; y: 100,0; viewport: 0.5">Headline</h1>
+            <p uk-parallax="opacity: 0,1; y: 100,0; viewport: 0.5">Lorem
+                ipsum
+                dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore
+                magna aliqua.</p>
+        </div>
+    </div>
+
+    <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous
+        uk-slider-item="previous"></a>
+    <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next
+        uk-slider-item="next"></a>
+
+
+
+
+
+    <!-- CARTE JOKER -->
+
+
+    <main>
+        <div class="uk-child-width-1-3@m upup batbatou" uk-grid="parallax: 150">
+            <div>
+                <div class="uk-card uk-card-default ">
+
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title ">Media bottom</h3>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa accusamus mollitia quae
+                            ducimus corrupti. Id nostrum soluta laborum dolor animi ratione dolorem debitis sunt. Quos
+                            repellat incidunt magnam inventore illum.
+                        </p>
+                    </div>
+                    <div class="uk-card-media-bottom ">
+                        <img src="joker.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default ">
+                    <div class="uk-card-media-top ">
+                        <img src="joker.jpg" alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title">Media Bottom</h3>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa accusamus mollitia quae
+                            ducimus corrupti. Id nostrum soluta laborum dolor animi ratione dolorem debitis sunt. Quos
+                            repellat incidunt magnam inventore illum.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title">Media bottom</h3>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa accusamus mollitia quae
+                            ducimus corrupti. Id nostrum soluta laborum dolor animi ratione dolorem debitis sunt. Quos
+                            repellat incidunt magnam inventore illum.
+                        </p>
+                    </div>
+                    <div class="uk-card-media-bottom">
+                        <img src="joker.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="uk-column-1-2@s uk-column-1-3@m bot">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero minus molestiae incidunt reiciendis
+                excepturi, unde perspiciatis voluptates odit odio! Sunt id labore magnam ex maiores sit perferendis
+                atque quasi libero.</p>
+
+            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                Excepteur sint occaecat cupidatat non proident,
+                sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor, sit amet consectetur
+                adipisicing elit. Cumque nobis iusto sint sed hic asperiores pariatur consectetur corrupti totam
+                voluptatum. Vel pariatur atque quis amet quod laboriosam saepe ea eveniet.</p>
+
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in
+                voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident. Duis aute irure dolor in reprehenderit
+                in voluptate velit esse cillum dolore. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Reiciendis consequuntur magnam rerum ut cupiditate eligendi quos culpa nam perferendis obcaecati
+                accusamus eum, fugit non optio corporis sed repellat nesciunt repudiandae?</p>
+        </div>
+
+        <a href="#" uk-totop uk-scroll></a>
+    </main>
+
+
+</body>
+
+</html>
