@@ -1,14 +1,28 @@
-
-
-.lol {
-    text-align: center;
-}
-
 .batbatou {
-    padding-top: 9vh;
-    text-align: center;
-   }
-
-.thomis{
-    transform: scale(1.18333)
+  padding-top: 9vh;
+  text-align: center;
 }
+
+.thomis {
+  transform: scale(1.18333);
+}
+
+#page-wrapper {
+  min-height: calc(100% - 20px);
+  margin-bottom: -60px;
+}
+
+#page-wrapper:after {
+  content: "";
+  display: block;
+}
+
+#page-footer, #page-wrapper:after {
+  height: 60px;
+}
+
+#page-footer {
+  background-color: #f5f5f5;
+}
+
+/*# sourceMappingURL=style.css.map */
