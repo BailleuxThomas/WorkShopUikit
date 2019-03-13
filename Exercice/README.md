@@ -55,5 +55,51 @@ Le composant Grid est livré avec une gouttière par défaut qui est automatique
 |.uk-grid-large	    |Ajoutez cette classe pour appliquer une grande gouttière avec des points d'arrêt.                         |
 |.uk-grid-collapse	|Ajoutez cette classe pour supprimer entièrement la gouttière.                                             |
 
-# [Découverte](./docs2.md)
+# Petite documentation
+
+```
+<div class="uk-child-width-expand@s" uk-grid>
+```
+
+= prendre toute la largeur de la page
+
+Exemple
+
+```
+<div class="uk-child-width-expand@s uk-text-center" uk-grid>
+    <div>
+        <div class="uk-card uk-card-default uk-card-body">Item</div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-default uk-card-body">Item</div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-default uk-card-body">Item</div>
+    </div>
+</div>
+```
+<img src = "./img/1.png" title = "google logo" alt = "Exemple">
+
+On va rajouter uk-grid-collapse dans la class parrent, ce qui va nous permettre d'avoir aucune marge entre les div enfants.
+
+
+```
+<div class="uk-grid-collapse uk-child-width-expand@s uk-text-center" uk-grid>
+    <div>
+        <div class="uk-card uk-card-default uk-card-body">Item</div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-default uk-card-body">Item</div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-default uk-card-body">Item</div>
+    </div>
+</div>
+```
+
+<img src = "./img/2.png" title = "google logo" alt = "Exemple">
+
+
+
+# [Découverte](./surprise/docs2.md)
 
