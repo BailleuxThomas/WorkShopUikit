@@ -103,7 +103,7 @@ On va rajouter uk-grid-collapse dans la class parrent, ce qui va nous permettre 
 
 
 
-<img src="./img/3.png" width="200%" height="200%" />
+<img src="./img/3.png" width="500%" height="500%" />
 
 
 # [Découverte](./surprise/docs2.md)
