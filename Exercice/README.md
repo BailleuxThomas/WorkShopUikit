@@ -3,7 +3,7 @@
 
 - __[:')](https://getuikit.com/docs/grid)__ - Documentation sur la manière de création de div.
 - __[:')](https://getuikit.com/docs/width)__ - Choisir une taille à sa gouttière.
-- __[Tester Ulkit](https://getuikit.com/assets/uikit/tests/)__
+- __[Tester Uikit](https://getuikit.com/assets/uikit/tests/)__
 
 __Exercice 1 :D__
 
@@ -19,7 +19,7 @@ Nous allons crée une div Parent avec trois enfants.
 
 Si tout ce passe bien, vous verrez bien trois div, séparé l'une des autres sur le même axe (horizontal).
 
-Avant de jouer avec les différentes tailles, nous allons jouer avec des boites de style. [Card Ulkit](https://getuikit.com/docs/card) 
+Avant de jouer avec les différentes tailles, nous allons jouer avec des boites de style. [Card Uikit](https://getuikit.com/docs/card) 
 
 __Exercice 2__
 
@@ -55,5 +55,68 @@ Le composant Grid est livré avec une gouttière par défaut qui est automatique
 |.uk-grid-large	    |Ajoutez cette classe pour appliquer une grande gouttière avec des points d'arrêt.                         |
 |.uk-grid-collapse	|Ajoutez cette classe pour supprimer entièrement la gouttière.                                             |
 
-# [Découverte](./docs2.md)
+# On va passer à la découverte
+
+```
+<div class="uk-child-width-expand@s" uk-grid>
+```
+
+= prendre toute la largeur de la page
+
+Exemple
+
+```
+    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+    <div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
+    </div>
+```
+
+<img src="./img/1.png" height="100" />
+
+On va rajouter uk-grid-collapse dans la class parrent, ce qui va nous permettre d'avoir aucune marge entre les div enfants.
+
+
+```
+<div class="uk-grid-collapse uk-child-width-expand@s uk-text-center" uk-grid>
+    <div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
+    </div>
+</div>
+```
+
+<img src="./img/2.png" height="100" />
+
+Comme vous pouvez le remarquer, uk-width-auto@ porte bien son nom, il va automatiquement s'adapter aux autres. Ainsi que uk-width-expand@m lui prendra la place qui lui reste.
+
+```
+    <div class="uk-text-center" uk-grid>
+        <div class="uk-width-auto@m">
+            <div class="uk-card uk-card-primary uk-card-body">Auto</div>
+        </div>
+        <div class="uk-width-1-3@m">
+            <div class="uk-card uk-card-primary uk-card-body">1-3</div>
+        </div>
+        <div class="uk-width-expand@m">
+            <div class="uk-card uk-card-primary uk-card-body">Expand</div>
+        </div>
+    </div>
+```
+
+<img src="./img/3.png" height="100" />
+
+
+# [Découverte](./surprise/docs2.md)
 
