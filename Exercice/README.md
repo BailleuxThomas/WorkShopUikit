@@ -79,7 +79,7 @@ Exemple
 </div>
 ```
 
-<img src="./img/1.png" width="1800" height="110" />
+<img src="./img/1.png" height="100" />
 
 On va rajouter uk-grid-collapse dans la class parrent, ce qui va nous permettre d'avoir aucune marge entre les div enfants.
 
