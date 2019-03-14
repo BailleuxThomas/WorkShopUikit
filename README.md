@@ -4,7 +4,7 @@
 
 # Bonjour à tous et à toutes
 
-## Bienvenue au Workshop de Hadrien et Thomas
+## Bienvenue au Workshop de Baptiste, Hadrien et Thomas
 
 ### Nous allons vous présentez Ulkit
 

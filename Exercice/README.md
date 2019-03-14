@@ -55,7 +55,7 @@ Le composant Grid est livré avec une gouttière par défaut qui est automatique
 |.uk-grid-large	    |Ajoutez cette classe pour appliquer une grande gouttière avec des points d'arrêt.                         |
 |.uk-grid-collapse	|Ajoutez cette classe pour supprimer entièrement la gouttière.                                             |
 
-# Maintenant on va passer à la découverte
+# On va passer à la découverte
 
 ```
 <div class="uk-child-width-expand@s" uk-grid>
