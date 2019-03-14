@@ -100,7 +100,7 @@ On va rajouter uk-grid-collapse dans la class parrent, ce qui va nous permettre 
 
 
 
-<img src="./img/3.png" height="100" />
+<img src="./img/2.png" height="100" />
 
 
 test
