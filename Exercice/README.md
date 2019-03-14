@@ -78,7 +78,8 @@ Exemple
     </div>
 </div>
 ```
-<img src = "./img/1.png" title = "google logo" alt = "Exemple">
+
+<img src="./img/1.png" width="1800" height="110" />
 
 On va rajouter uk-grid-collapse dans la class parrent, ce qui va nous permettre d'avoir aucune marge entre les div enfants.
 
@@ -97,8 +98,12 @@ On va rajouter uk-grid-collapse dans la class parrent, ce qui va nous permettre 
 </div>
 ```
 
-<img src = "./img/2.png" title = "google logo" alt = "Exemple">
 
+<img src="./img/2.png" width="1800" height="110" />
+
+
+
+<img src="./img/3.png" />
 
 
 # [Découverte](./surprise/docs2.md)
