@@ -99,6 +99,7 @@ On va rajouter uk-grid-collapse dans la class parrent, ce qui va nous permettre 
 
 <img src="./img/2.png" height="100" />
 
+Comme vous pouvez le remarquer, uk-width-auto@ porte bien son nom, il va automatiquement s'adapter aux autres. Ainsi que uk-width-expand@m lui prendra la place qui lui reste.
 
 ```
     <div class="uk-text-center" uk-grid>
