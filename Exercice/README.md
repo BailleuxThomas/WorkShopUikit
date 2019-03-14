@@ -55,7 +55,7 @@ Le composant Grid est livré avec une gouttière par défaut qui est automatique
 |.uk-grid-large	    |Ajoutez cette classe pour appliquer une grande gouttière avec des points d'arrêt.                         |
 |.uk-grid-collapse	|Ajoutez cette classe pour supprimer entièrement la gouttière.                                             |
 
-# Petite documentation
+# Maintenant on va passer à la découverte
 
 ```
 <div class="uk-child-width-expand@s" uk-grid>
@@ -66,17 +66,16 @@ Le composant Grid est livré avec une gouttière par défaut qui est automatique
 Exemple
 
 ```
-<div class="uk-child-width-expand@s uk-text-center" uk-grid>
+    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
     <div>
-        <div class="uk-card uk-card-default uk-card-body">Item</div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
     </div>
     <div>
-        <div class="uk-card uk-card-default uk-card-body">Item</div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
     </div>
     <div>
-        <div class="uk-card uk-card-default uk-card-body">Item</div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
     </div>
-</div>
 ```
 
 <img src="./img/1.png" height="100" />
@@ -87,25 +86,35 @@ On va rajouter uk-grid-collapse dans la class parrent, ce qui va nous permettre 
 ```
 <div class="uk-grid-collapse uk-child-width-expand@s uk-text-center" uk-grid>
     <div>
-        <div class="uk-card uk-card-default uk-card-body">Item</div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
     </div>
     <div>
-        <div class="uk-card uk-card-default uk-card-body">Item</div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
     </div>
     <div>
-        <div class="uk-card uk-card-default uk-card-body">Item</div>
+        <div class="uk-card uk-card-primary uk-card-body">Item</div>
     </div>
 </div>
 ```
 
-
-
 <img src="./img/2.png" height="100" />
 
 
-test
+```
+    <div class="uk-text-center" uk-grid>
+        <div class="uk-width-auto@m">
+            <div class="uk-card uk-card-primary uk-card-body">Auto</div>
+        </div>
+        <div class="uk-width-1-3@m">
+            <div class="uk-card uk-card-primary uk-card-body">1-3</div>
+        </div>
+        <div class="uk-width-expand@m">
+            <div class="uk-card uk-card-primary uk-card-body">Expand</div>
+        </div>
+    </div>
+```
 
-test
+<img src="./img/3.png" height="100" />
 
 
 # [Découverte](./surprise/docs2.md)
