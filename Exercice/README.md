@@ -7,10 +7,8 @@
     1. [Grid](#Grid)
     2. [Exercice2](#Exercice2)
     3. [Exercice3](#Exercice3)
-    4. [Exercice4](#Exercice4)
-    5. [Exercice modification de la gouttière](#Exercice3gouttiere)
-
-3. [Découverte](https://getuikit.com/assets/uikit/tests/)
+    4. [Exercice modification de la gouttière](#Exercice3gouttiere)
+3. [Découverte](#decouverte)
 
 <a name="Grid"></a>
 
@@ -78,6 +76,8 @@ Le composant Grid est livré avec une gouttière par défaut qui est automatique
 |.uk-grid-medium	|Ajoutez cette classe pour appliquer une gouttière moyenne comme celle par défaut, mais sans point d'arrêt.|
 |.uk-grid-large	    |Ajoutez cette classe pour appliquer une grande gouttière avec des points d'arrêt.                         |
 |.uk-grid-collapse	|Ajoutez cette classe pour supprimer entièrement la gouttière.                                             |
+
+<a name="Decouverte"></a>
 
 # On va passer à la découverte
 
