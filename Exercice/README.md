@@ -106,7 +106,7 @@ Exemple
 
 <img src="./img/1.png" height="100" />
 
-On va rajouter uk-grid-collapse dans la class parrent, ce qui va nous permettre d'avoir aucune marge entre les div enfants.
+On va rajouter uk-grid-collapse dans la class parent, ce qui va nous permettre d'avoir aucune marge entre les div enfants.
 
 
 ```
