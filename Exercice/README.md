@@ -8,7 +8,7 @@
     2. [Exercice2](#Exercice2)
     3. [Exercice3](#Exercice3)
     4. [Exercice4](#Exercice4)
-    5. [Exercice3 modification de la gouttière](#Exercice3gouttiere)
+    5. [Exercice modification de la gouttière](#Exercice3gouttiere)
 
 3. [Découverte](https://getuikit.com/assets/uikit/tests/)
 
