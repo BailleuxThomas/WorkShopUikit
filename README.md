@@ -11,15 +11,15 @@
 
 - __[Introduction](https://docs.google.com/presentation/d/1ePlkLwS9Ew6DiZe_D98PFSBxpbx93JIVX8h5atwk-Dg/edit?usp=sharing)__ - Qu'est ce que c'est Uikit et comment l'installer.
 
-- __[Exercice](./Exercice/README.md)__ 
+- __[Exercice](./Exercice/README.md)__  - Pour bien commencer.
 
-- __[Découverte](./Exercice/docs2.md)__
+- __[Découverte](./Exercice/docs2.md)__ - Surprise.
 
 
 # Table of contents
-1. [Introduction](https://docs.google.com/presentation/d/1ePlkLwS9Ew6DiZe_D98PFSBxpbx93JIVX8h5atwk-Dg/edit?usp=sharing)Qu'est ce que c'est Uikit et comment l'installer.
-2. [Exercice](./Exercice/README.md)
-3. [Découverte](./Exercice/docs2.md)
+1. [Introduction](https://docs.google.com/presentation/d/1ePlkLwS9Ew6DiZe_D98PFSBxpbx93JIVX8h5atwk-Dg/edit?usp=sharing) Qu'est ce que c'est Uikit et comment l'installer.
+2. [Exercice](./Exercice/README.md) Pour bien commencer.
+3. [Découverte](./Exercice/docs2.md) Surprise.
     1. [Sub paragraph](#subparagraph1)
 
 
