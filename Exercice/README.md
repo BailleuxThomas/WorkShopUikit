@@ -8,13 +8,18 @@
     2. [Exercice1](#Exercice1)
 3. [Découverte](https://getuikit.com/assets/uikit/tests/)
 
-# Grid :) <a name="Grid"></a>
+<a name="Grid"></a>
 
-- __[:')](https://getuikit.com/docs/grid)__ - Documentation sur la manière de création de div.
-- __[:')](https://getuikit.com/docs/width)__ - Choisir une taille à sa gouttière.
+# Grid
+
+- __[Grid](https://getuikit.com/docs/grid)__ - Documentation sur la manière de création de div.
+- __[Width](https://getuikit.com/docs/width)__ - Choisir une taille à sa gouttière.
 - __[Tester Uikit](https://getuikit.com/assets/uikit/tests/)__
 
-__Exercice 1 :D__ <a name="Exercice1"></a>
+
+<a name="Exercice1"></a>
+
+__Exercice 1 :D__
 
 Nous allons crée une div Parent avec trois enfants.
 
