@@ -5,7 +5,11 @@
 1. [Introduction](https://docs.google.com/presentation/d/1ePlkLwS9Ew6DiZe_D98PFSBxpbx93JIVX8h5atwk-Dg/edit?usp=sharing) Qu'est ce que c'est Uikit et comment l'installer.
 2. [Exercice](../Exercice/README.md) Pour bien commencer.
     1. [Grid](#Grid)
-    2. [Exercice1](#Exercice1)
+    2. [Exercice2](#Exercice2)
+    3. [Exercice3](#Exercice3)
+    4. [Exercice4](#Exercice4)
+    5. [Exercice3 modification de la gouttière](#Exercice3gouttiere)
+
 3. [Découverte](https://getuikit.com/assets/uikit/tests/)
 
 <a name="Grid"></a>
@@ -35,6 +39,9 @@ Si tout ce passe bien, vous verrez bien trois div, séparé l'une des autres sur
 
 Avant de jouer avec les différentes tailles, nous allons jouer avec des boites de style. [Card Uikit](https://getuikit.com/docs/card) 
 
+
+<a name="Exercice2"></a>
+
 __Exercice 2__
 
 Insérer une class à la div test1 et test3:
@@ -42,6 +49,8 @@ Insérer une class à la div test1 et test3:
 ```
 uk-card uk-card-default uk-card-body
 ```
+<a name="Exercice3"></a>
+
 __Exercice 3__
 
 Maintenant on va parler des différentes tailles.[Width](https://getuikit.com/docs/width).
@@ -56,6 +65,7 @@ Maintenant on va parler des différentes tailles.[Width](https://getuikit.com/do
 | .uk-width-1-5 à .uk-width-4-5	| L'élément occupe les cinquièmes de son conteneur parent. |
 | .uk-width-1-6 à .uk-width-5-6	| L'élément occupe les sixièmes de son conteneur parent.   |
 
+<a name="Exercice3gouttiere"></a>
 
 ### Modificateur de gouttière
 
