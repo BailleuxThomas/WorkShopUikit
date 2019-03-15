@@ -4,9 +4,9 @@
 # Table des matières
 1. [Introduction](https://docs.google.com/presentation/d/1ePlkLwS9Ew6DiZe_D98PFSBxpbx93JIVX8h5atwk-Dg/edit?usp=sharing) Qu'est ce que c'est Uikit et comment l'installer.
 2. [Exercice](../Exercice/README.md) Pour bien commencer.
-3. [Découverte](https://getuikit.com/assets/uikit/tests/)
     1. [Grid](#Grid)
     2. [Exercice1](#Exercice1)
+3. [Découverte](https://getuikit.com/assets/uikit/tests/)
 
 # Grid :) <a name="Grid"></a>
 
