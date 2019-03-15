@@ -1,11 +1,20 @@
 ---
-# Grid :)
+
+
+# Table des matières
+1. [Introduction](https://docs.google.com/presentation/d/1ePlkLwS9Ew6DiZe_D98PFSBxpbx93JIVX8h5atwk-Dg/edit?usp=sharing) Qu'est ce que c'est Uikit et comment l'installer.
+2. [Exercice](../Exercice/README.md) Pour bien commencer.
+3. [Découverte](../Exercice/docs2.md) Surprise.
+    1. [Grid](#Grid)
+    2. [Exercice1](#Exercice1)
+
+# Grid :) <a name="Grid"></a>
 
 - __[:')](https://getuikit.com/docs/grid)__ - Documentation sur la manière de création de div.
 - __[:')](https://getuikit.com/docs/width)__ - Choisir une taille à sa gouttière.
 - __[Tester Uikit](https://getuikit.com/assets/uikit/tests/)__
 
-__Exercice 1 :D__
+__Exercice 1 :D__ <a name="Exercice1"></a>
 
 Nous allons crée une div Parent avec trois enfants.
 
