@@ -13,5 +13,5 @@
 
 - __[Exercice](./Exercice/README.md)__  - Pour bien commencer.
 
-- __[Découverte](./Exercice/docs2.md)__ - Surprise.
+- __[Découverte](https://getuikit.com/assets/uikit/tests/)__
 
