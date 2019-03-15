@@ -81,6 +81,8 @@ Le composant Grid est livré avec une gouttière par défaut qui est automatique
 
 # On va passer à la découverte
 
+<a name="Prendrelalargeurdelatoutelapage"></a>
+
 ```
 <div class="uk-child-width-expand@s" uk-grid>
 ```
@@ -142,5 +144,5 @@ Comme vous pouvez le remarquer, uk-width-auto@ porte bien son nom, il va automat
 <img src="./img/3.png" height="100" />
 
 
-# [Découverte](./surprise/docs2.md)
+# [Découverte](../surprise/index.html)
 
