@@ -2,11 +2,11 @@
 ---
 ---
 
-# Bonjour à tous et à toutes
+# Bonjour à toutes et à tous
 
 ## Bienvenue au Workshop de Baptiste, Hadrien et Thomas
 
-### Nous allons vous présentez Uikit
+### Nous allons vous présenter Uikit
 
 
 - __[Introduction](https://docs.google.com/presentation/d/1ePlkLwS9Ew6DiZe_D98PFSBxpbx93JIVX8h5atwk-Dg/edit?usp=sharing)__ - Qu'est ce que c'est Uikit et comment l'installer.
