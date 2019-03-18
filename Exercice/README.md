@@ -9,6 +9,7 @@
     3. [Exercice3](#Exercice3)
     4. [Exercice modification de la gouttière](#Exercice3gouttiere)
 3. [Découverte](#decouverte)
+4. [Projet de groupe](#Projet)
 
 <a name="Grid"></a>
 
@@ -146,5 +147,7 @@ Comme vous pouvez le remarquer, uk-width-auto@ porte bien son nom, il va automat
 
 # [Découverte](https://getuikit.com/assets/uikit/tests)
 
-# [Exercice Projet](../Projet)
+<a name="Projet"></a>
+
+# [Projet de groupe](../Projet)
 
