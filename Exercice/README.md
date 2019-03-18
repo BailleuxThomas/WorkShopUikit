@@ -2,7 +2,7 @@
 
 
 # Table des matières
-1. [Introduction](https://docs.google.com/presentation/d/1ePlkLwS9Ew6DiZe_D98PFSBxpbx93JIVX8h5atwk-Dg/edit?usp=sharing) Qu'est ce que c'est Uikit et comment l'installer.
+1. [Introduction](https://docs.google.com/presentation/d/1ePlkLwS9Ew6DiZe_D98PFSBxpbx93JIVX8h5atwk-Dg/edit?usp=sharing) Qu'est-ce que Uikit et comment l'installer.
 2. [Exercice](../Exercice/README.md) Pour bien commencer.
     1. [Grid](#Grid)
     2. [Exercice2](#Exercice2)
@@ -14,7 +14,7 @@
 
 # Grid
 
-- __[Grid](https://getuikit.com/docs/grid)__ - Documentation sur la manière de création de div.
+- __[Grid](https://getuikit.com/docs/grid)__ - Documentation sur la méthode de création de div.
 - __[Width](https://getuikit.com/docs/width)__ - Choisir une taille à sa gouttière.
 - __[Tester Uikit](https://getuikit.com/assets/uikit/tests/)__
 
@@ -23,7 +23,7 @@
 
 __Exercice 1 __
 
-Nous allons crée une div Parent avec trois enfants.
+Nous allons créer une div Parent avec trois enfants.
 
 ```
     <div uk-grid>
@@ -35,7 +35,7 @@ Nous allons crée une div Parent avec trois enfants.
 
 Si tout ce passe bien, vous verrez bien trois div, séparé l'une des autres sur le même axe (horizontal).
 
-Avant de jouer avec les différentes tailles, nous allons jouer avec des boites de style. [Card Uikit](https://getuikit.com/docs/card) 
+Avant de jouer avec les différentes tailles, nous allons nous amuser avec des boites de style. [Card Uikit](https://getuikit.com/docs/card) 
 
 
 <a name="Exercice2"></a>
