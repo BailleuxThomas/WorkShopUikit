@@ -21,7 +21,7 @@
 
 <a name="Exercice1"></a>
 
-__Exercice 1 :D__
+__Exercice 1 __
 
 Nous allons crée une div Parent avec trois enfants.
 
