@@ -2,11 +2,11 @@
 
 Voici les groupes:
 
-Groupe 1: Caro Ruben Adrien,
-Groupe 2: Mathieu, Maxime C Meroine,
-Groupe 3: Gary Jonathan Nathan,
-Groupe 4: Edouard Valentin Sophie,
-Groupe 5: Justine Axel,
+- Groupe 1: Caro Ruben Adrien,
+- Groupe 2: Mathieu, Maxime C Meroine,
+- Groupe 3: Gary Jonathan Nathan,
+- Groupe 4: Edouard Valentin Sophie,
+- Groupe 5: Justine Axel,
 
 Faire une single page restaurant, mais cette fois ci avec UIKIT et non BOOTSTRAP.
 
