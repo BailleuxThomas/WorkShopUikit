@@ -144,5 +144,7 @@ Comme vous pouvez le remarquer, uk-width-auto@ porte bien son nom, il va automat
 <img src="./img/3.png" height="100" />
 
 
-# [Découverte](../surprise/index.html)
+# [Découverte](https://getuikit.com/assets/uikit/tests)
+
+# [Exercice Projet](../Projet)
 
